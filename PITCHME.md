@@ -9,8 +9,12 @@ Getting a grasp on
 
 ### TOC
 
-- Overview
-- Practice
+- Definition
+- Threats
+- Remedies
+- Secure Programming
+- Cryptography
+- Example
 
 ---
 @title[Definition]
@@ -18,7 +22,6 @@ Getting a grasp on
 ### What is the security?
 
 > secure: from se- (“without”) +‎ cura (“care”);
-
 > cura: From Proto-Indo-European *kʷeys- (“to heed”).
 
 - https://en.wiktionary.org/wiki/security
