@@ -36,11 +36,11 @@ Getting a grasp on
 https://en.wikipedia.org/wiki/Computer_security#Vulnerabilities_and_attacks
 
 - Financial systems
--	Utilities and industrial equipment
--	Government and Large corporations
--	Aviation and automobiles
--	Consumer devices, IoT and physical vulnerabilities
--	Energy sector, medical systems, ...
+- Utilities and industrial equipment
+- Government and Large corporations
+- Aviation and automobiles
+- Consumer devices, IoT and physical vulnerabilities
+- Energy sector, medical systems, ...
 
 ---
 
@@ -57,10 +57,10 @@ https://en.wikipedia.org/wiki/Defense_in_depth_(computing)
 https://en.wikipedia.org/wiki/Computer_security#Vulnerabilities_and_attacks
 
 - Backdoor, Direct-access attacks, Privilege escalation
--	Denial-of-service attacks
--	Eavesdropping, Phishing
--	Spoofing, Tampering, Clickjacking, Social engineering
--	Multivector, polymorphic attacks
+- Denial-of-service attacks
+- Eavesdropping, Phishing
+- Spoofing, Tampering, Clickjacking, Social engineering
+- Multivector, polymorphic attacks
 
 ---
 
@@ -90,10 +90,10 @@ https://en.wikipedia.org/wiki/Internet_security
 
 https://en.wikipedia.org/wiki/Internet_security#Threats
 
--	Malicious software
--	Denial-of-service attacks
--	Phishing
--	Application vulnerabilities
+- Malicious software
+- Denial-of-service attacks
+- Phishing
+- Application vulnerabilities
 
 ---
 
@@ -101,11 +101,11 @@ https://en.wikipedia.org/wiki/Internet_security#Threats
 
 https://en.wikipedia.org/wiki/Internet_security#Remedies
 
--	Network layer security
--	Internet Protocol Security (IPsec)
--	Multi-factor authentication
--	Security token
--	Electronic mail security
+- Network layer security
+- Internet Protocol Security (IPsec)
+- Multi-factor authentication
+- Security token
+- Electronic mail security
 - Firewalls
 - Browser choice
 
