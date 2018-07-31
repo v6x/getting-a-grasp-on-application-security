@@ -265,3 +265,10 @@ https://en.wikipedia.org/wiki/Web_application_firewall
 @title[Example]
 
 ### Example
+
+- Keylogger
+- Privilege escalation
+- Whitebox Cryptography
+- Obfuscation
+- DLL Injection
+- XSS, XSRF
